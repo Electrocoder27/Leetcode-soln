@@ -12,6 +12,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0416-partition-equal-subset-sum) |
 | [0790-global-and-local-inversions](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0790-global-and-local-inversions) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0967-minimum-falling-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2689-rearranging-fruits) |
@@ -27,6 +28,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0416-partition-equal-subset-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
 ## Queue
 |  |
 | ------- |
@@ -115,4 +117,5 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
