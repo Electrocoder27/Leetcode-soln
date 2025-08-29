@@ -13,6 +13,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0416-partition-equal-subset-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-global-and-local-inversions](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0790-global-and-local-inversions) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0967-minimum-falling-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
@@ -37,6 +38,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0416-partition-equal-subset-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1559-cherry-pickup-ii) |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0044-wildcard-matching) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1033-broken-calculator](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1033-broken-calculator) |
 | [2689-rearranging-fruits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2689-rearranging-fruits) |
 ## Sort
