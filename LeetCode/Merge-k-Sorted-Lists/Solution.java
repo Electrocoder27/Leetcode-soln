@@ -10,30 +10,32 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        ArrayList<Integer> values = new ArrayList<>() ;
+       if(lists == null || lists.length == 0) {
+        return null ;
+       }
 
+       PriorityQueue <ListNode> minheap = new PriorityQueue<>((a,b) -> a.val-b.val) ;
 
-        for(ListNode node:lists) {
-            while(node != null) {
-                values.add(node.val) ;
-                node = node.next ;
+       //push head of each list..........
+       for(ListNode node : lists) {
+            if(node != null) {
+                minheap.add(node) ;
             }
         }
 
-
-        if(values.isEmpty()) {
-            return null ;
-        }
-
-        Collections.sort(values) ;
-
         ListNode dummy = new ListNode(0) ;
-        ListNode curr = dummy ;
+        ListNode tail = dummy ;
 
-        for(int val: values) {
-            curr.next = new ListNode(val) ;
-            curr = curr.next ;
+        while(!minheap.isEmpty()) {
+            ListNode minNode = minheap.poll() ;
+            tail.next = minNode ;
+            tail  = tail.next ;
+
+            if(minNode.next != null) {
+                minheap.add(minNode.next) ;
+            }
         }
+
 
         return dummy.next ;
     }
