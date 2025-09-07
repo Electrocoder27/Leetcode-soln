@@ -1,3 +1,13 @@
-public static boolean isPowerOfTwo(int n) {
-	return n < 1 ? false : (n & (n - 1)) == 0 ? true : false;
+class Solution {
+    public boolean isPowerOfTwo(int n) {
+        if(n<=0){
+            return false ;
+        }
+        if((n & (n-1))==0){
+            return true ;
+        }
+        else{
+            return false ;
+        }
+    }
 }
