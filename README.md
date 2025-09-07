@@ -128,6 +128,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0231-power-of-two) |
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
