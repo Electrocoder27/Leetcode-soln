@@ -1,0 +1,33 @@
+class Solution {
+    public int minOperations(int[] nums) {
+        int n = nums.length ;
+        int tar = nums[0];
+        for(int i =1;i<n;i++) {
+            tar &= nums[i] ;
+        }
+        boolean allEqual = true ;
+
+        for(int num : nums) {
+            if(num != tar) {
+                allEqual = false ;
+                break ;
+            }
+        }
+
+        if(allEqual) {
+            return 0;
+        }
+
+        
+        int count = 0;
+        int runningAND = ~0 ;
+        for(int i =0;i<n;i++) {
+            runningAND &= nums[i] ;
+            if(runningAND == tar) {
+                count++ ;
+                runningAND = ~0 ;
+            }
+        }
+        return Math.min(1,count) ;
+    }
+}
