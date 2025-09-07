@@ -6,6 +6,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,6 +127,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0231-power-of-two) |
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -172,4 +174,8 @@
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
