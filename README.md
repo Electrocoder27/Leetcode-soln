@@ -109,6 +109,7 @@
 | [0790-global-and-local-inversions](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0790-global-and-local-inversions) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1033-broken-calculator](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1033-broken-calculator) |
+| [3336-water-bottles-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3336-water-bottles-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -184,4 +185,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [3336-water-bottles-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
