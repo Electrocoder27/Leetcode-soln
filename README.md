@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0063-unique-paths-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0078-subsets) |
@@ -88,6 +89,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0044-wildcard-matching) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1033-broken-calculator](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1033-broken-calculator) |
@@ -146,6 +148,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0392-is-subsequence) |
 ## Matrix
 |  |
