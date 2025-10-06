@@ -20,6 +20,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-global-and-local-inversions](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0790-global-and-local-inversions) |
+| [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0967-minimum-falling-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -65,6 +66,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Prefix Sum
 |  |
@@ -162,6 +165,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0064-minimum-path-sum) |
+| [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1559-cherry-pickup-ii) |
 ## Brainteaser
@@ -172,11 +176,13 @@
 |  |
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
+| [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
+| [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
@@ -207,4 +213,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
