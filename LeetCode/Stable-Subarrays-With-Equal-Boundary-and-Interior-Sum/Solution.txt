@@ -1,0 +1,40 @@
+class Solution {
+    public long countStableSubarrays(int[] capacity) {
+        int n = capacity.length;
+        long[] prefix = new long[n + 1];
+        for (int i = 0; i < n; i++) prefix[i + 1] = prefix[i] + capacity[i];
+
+        // countsByValue maps capacityValue -> map(prefixValue -> countOfIndices r)
+        Map<Integer, Map<Long, Integer>> countsByValue = new HashMap<>();
+
+        // initialize counts with all r indices that are >= 2 (r must be >= l+2 for l=0)
+        for (int r = 2; r < n; r++) {
+            countsByValue
+                .computeIfAbsent(capacity[r], k -> new HashMap<>())
+                .merge(prefix[r], 1, Integer::sum);
+        }
+
+        long ans = 0;
+        // iterate l from 0 .. n-3 (only these l have any possible r >= l+2)
+        for (int l = 0; l <= n - 3; l++) {
+            long targetPrefix = prefix[l] + 2L * capacity[l];
+            Map<Long, Integer> inner = countsByValue.get(capacity[l]);
+            if (inner != null) {
+                Integer c = inner.get(targetPrefix);
+                if (c != null) ans += c;
+            }
+            // advance l -> next iteration requires removing r = l+2 from counts
+            int removeIndex = l + 2;
+            Map<Long, Integer> mRem = countsByValue.get(capacity[removeIndex]);
+            if (mRem != null) {
+                long key = prefix[removeIndex];
+                int newCnt = mRem.getOrDefault(key, 0) - 1;
+                if (newCnt <= 0) mRem.remove(key);
+                else mRem.put(key, newCnt);
+                if (mRem.isEmpty()) countsByValue.remove(capacity[removeIndex]);
+            }
+        }
+
+        return ans;
+    }
+}
