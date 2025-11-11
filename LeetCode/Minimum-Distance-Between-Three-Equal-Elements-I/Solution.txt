@@ -2,18 +2,21 @@ class Solution {
     public int minimumDistance(int[] nums) {
         int n = nums.length ;
         int mindist = Integer.MAX_VALUE ;
+        HashMap<Integer,ArrayList<Integer>> map = new HashMap<>() ;
         for(int i =0;i<n;i++){
-            for(int j = i+1;j<n;j++){
-                for(int k = j+1;k<n;k++){
-                    if(nums[i] == nums[j] && nums[j] == nums[k]){
-                        mindist = Math.min(mindist,(Math.abs(i-j)+Math.abs(j-k)+ Math.abs(k-i))) ;
-                    }
+            map.computeIfAbsent(nums[i],x -> new ArrayList<>()).add(i) ;
+        }
+
+        for(ArrayList<Integer> list: map.values()){
+            if(list.size() >=3){
+                for(int i =0;i+2 < list.size();i++){
+                    int f= list.get(i) ;
+                    int t = list.get(i+2) ;
+                    int dist = 2*(t-f) ;
+                    mindist = Math.min(mindist,dist) ;
                 }
             }
         }
-        if(mindist == Integer.MAX_VALUE){
-            return -1 ;
-        }
-        return mindist ;
+            return mindist == Integer.MAX_VALUE ? -1 :  mindist ;
     }
 }
