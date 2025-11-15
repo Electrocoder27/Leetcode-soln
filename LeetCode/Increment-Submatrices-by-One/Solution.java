@@ -1,8 +1,39 @@
-3
-[[1,1,2,2],[0,0,1,1]]
-2
-[[0,0,1,1]]
-13
-[[3,1,7,3],[7,5,7,8],[4,12,6,12],[2,8,6,11],[9,11,10,11],[9,3,11,11],[0,12,10,12],[10,5,11,12],[4,7,6,12],[0,2,9,6],[12,7,12,11],[2,7,3,8],[2,9,6,12],[10,7,10,12],[11,6,11,7],[3,2,12,9]]
-1
-[[0,0,0,0], [0,0,0,0]]
+class Solution {
+    public int[][] rangeAddQueries(int n, int[][] queries) {
+        int[][] diff = new int[n + 1][n + 1];
+
+        // Step 1: Apply difference for each query
+        for (int[] q : queries) {
+            int r1 = q[0], c1 = q[1], r2 = q[2], c2 = q[3];
+
+            diff[r1][c1] += 1;
+            if (c2 + 1 < n) diff[r1][c2 + 1] -= 1;
+            if (r2 + 1 < n) diff[r2 + 1][c1] -= 1;
+            if (r2 + 1 < n && c2 + 1 < n) diff[r2 + 1][c2 + 1] += 1;
+        }
+
+        // Step 2: Prefix sum row-wise
+        for (int i = 0; i < n; i++) {
+            for (int j = 1; j < n; j++) {
+                diff[i][j] += diff[i][j - 1];
+            }
+        }
+
+        // Step 3: Prefix sum column-wise
+        for (int j = 0; j < n; j++) {
+            for (int i = 1; i < n; i++) {
+                diff[i][j] += diff[i - 1][j];
+            }
+        }
+
+        // Build final matrix of size n x n
+        int[][] result = new int[n][n];
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                result[i][j] = diff[i][j];
+            }
+        }
+
+        return result;
+    }
+}
