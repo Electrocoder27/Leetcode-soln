@@ -1,0 +1,36 @@
+class Solution {
+    public String simplifyPath(String path) {
+         Stack<String> stack = new Stack<>();
+
+        // Split path by "/" 
+        // Example: "/home//foo/" -> ["", "home", "", "foo", ""]
+        String[] parts = path.split("/");
+
+        for (String part : parts) {
+            // Ignore empty parts and "."
+            if (part.equals("") || part.equals(".")) {
+                continue;
+            }
+            // Handle ".."
+            else if (part.equals("..")) {
+                if (!stack.isEmpty()) {
+                    stack.pop();
+                }
+            }
+            // Normal directory name
+            else {
+                stack.push(part);
+            }
+        }
+
+        // Build result
+        StringBuilder result = new StringBuilder();
+
+        for (String dir : stack) {
+            result.append("/").append(dir);
+        }
+
+        // If stack is empty, return root "/"
+        return result.length() == 0 ? "/" : result.toString();
+    }
+}
