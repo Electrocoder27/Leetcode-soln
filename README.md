@@ -32,6 +32,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2689-rearranging-fruits) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -144,6 +145,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2663-distribute-money-to-maximum-children) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
