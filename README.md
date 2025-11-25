@@ -107,6 +107,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0166-fraction-to-recurring-decimal) |
 | [0409-longest-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0409-longest-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -141,6 +142,7 @@
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
 | [0790-global-and-local-inversions](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0790-global-and-local-inversions) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1033-broken-calculator](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1033-broken-calculator) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
