@@ -36,6 +36,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -151,6 +152,7 @@
 | [2663-distribute-money-to-maximum-children](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2663-distribute-money-to-maximum-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3336-water-bottles-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
