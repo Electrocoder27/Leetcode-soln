@@ -1,0 +1,29 @@
+1class Solution {
+2    public int countElements(int[] nums, int k) {
+3        int n = nums.length ;
+4        if(k ==0){
+5            return n ;
+6        }
+7        if( k>=n){
+8            return 0 ;
+9        }
+10        Arrays.sort(nums) ;
+11        int threshold = nums[n-k] ;
+12
+13        return lowerbound(nums,threshold) ;
+14    }
+15    private int lowerbound(int[] nums,int threshold){
+16        int l = 0;
+17        int r = nums.length ;
+18        while(l<r){
+19            int m = (l+r) >>>1 ;
+20            if(nums[m] <threshold){
+21                l = m+1 ;
+22            }
+23            else{
+24                r = m ;
+25            }
+26        }
+27        return l ;
+28    }
+29}
