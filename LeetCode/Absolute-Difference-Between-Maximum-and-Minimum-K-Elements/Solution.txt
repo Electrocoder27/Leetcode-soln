@@ -18,10 +18,10 @@
 18        int minsum = 0;
 19        int maxsum =0;
 20        while(minheap.size() >0) {
-21            maxsum += minheap.remove() ;
+21            maxsum += minheap.poll() ;
 22        }
 23        while(maxheap.size() >0){
-24            minsum += maxheap.remove() ;
+24            minsum += maxheap.poll() ;
 25        }
 26
 27        return Math.abs(minsum-maxsum) ;
