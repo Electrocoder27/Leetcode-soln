@@ -8,6 +8,7 @@
 | [0063-unique-paths-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0079-word-search) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0166-fraction-to-recurring-decimal) |
 | [0392-is-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0409-longest-palindrome) |
@@ -225,6 +227,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0079-word-search) |
 | [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1559-cherry-pickup-ii) |
@@ -236,6 +239,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0079-word-search) |
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
 | [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -265,6 +269,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
