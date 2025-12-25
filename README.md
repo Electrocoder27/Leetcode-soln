@@ -113,6 +113,7 @@
 | [0686-repeated-string-match](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0944-delete-columns-to-make-sorted) |
+| [1392-longest-happy-prefix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1392-longest-happy-prefix) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -335,12 +336,15 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
