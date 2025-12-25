@@ -36,6 +36,7 @@
 | [2689-rearranging-fruits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2689-rearranging-fruits) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -148,6 +149,7 @@
 | [2663-distribute-money-to-maximum-children](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2663-distribute-money-to-maximum-children) |
 | [2689-rearranging-fruits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2689-rearranging-fruits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Sort
 |  |
@@ -264,6 +266,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2054-two-best-non-overlapping-events](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Tree
 |  |
