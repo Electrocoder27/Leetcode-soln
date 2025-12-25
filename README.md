@@ -107,6 +107,7 @@
 | [0044-wildcard-matching](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0079-word-search) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0166-fraction-to-recurring-decimal) |
+| [0214-shortest-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0409-longest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0686-repeated-string-match) |
@@ -332,5 +333,14 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
