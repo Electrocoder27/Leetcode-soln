@@ -13,6 +13,7 @@
 | [0120-triangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0135-candy) |
 | [0300-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0312-burst-balloons) |
@@ -142,6 +143,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0409-longest-palindrome) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
