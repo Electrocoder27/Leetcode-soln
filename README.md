@@ -254,6 +254,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0079-word-search) |
+| [0199-binary-tree-right-side-view](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
 | [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -261,6 +262,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
 | [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -277,10 +279,12 @@
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
