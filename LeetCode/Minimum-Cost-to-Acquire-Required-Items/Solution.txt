@@ -1,0 +1,17 @@
+1class Solution {
+2    public long minimumCost(int cost1, int cost2, int costBoth, int need1, int need2) {
+3    long x = Math.min(need1, need2); // shared part
+4
+5        long costA = x * costBoth + (need1 - x) * cost1 + (need2 - x) * cost2;
+6        long costB = (long)Math.max(need1, need2) * costBoth;
+7        long costC = (long)need1 * cost1 + (long)need2 * cost2;
+8
+9        // replace cost1 part using extra typeBoth
+10        long costD = (long)need1 * costBoth + (long)Math.max(0, need2 - need1) * cost2;
+11
+12        // replace cost2 part using extra typeBoth
+13        long costE = (long)need2 * costBoth + (long)Math.max(0, need1 - need2) * cost1;
+14
+15        return Math.min(costA, Math.min(costB, Math.min(costC, Math.min(costD, costE))));
+16    }
+17}
