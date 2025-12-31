@@ -1,0 +1,14 @@
+1class Solution {
+2    public int maxDistinct(String s) {
+3        int count = 0 ;
+4        boolean[] vis =  new boolean[26] ;
+5        for(char ch:s.toCharArray()) {
+6            if(!vis[ch-'a']) {
+7                vis[ch-'a'] = true ;
+8                count++ ;
+9            }
+10        }
+11
+12        return count ;
+13    }
+14}
