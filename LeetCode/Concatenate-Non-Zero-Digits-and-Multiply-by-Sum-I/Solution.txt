@@ -1,0 +1,34 @@
+1class Solution {
+2    private long reverse(long num) {
+3        long rev = 0;
+4        while(num>0) {
+5            long rem =  num%10 ;
+6            rev = rev*10 + rem ;
+7            num = num/10 ;
+8        }
+9        return rev ;
+10    }
+11    public long sumAndMultiply(int n) {
+12        long ans = 0;
+13        long x = 0 ;
+14        while(n>0) {
+15            int rem = n%10 ;
+16            if(rem != 0){
+17                x= x*10 + rem ;
+18            }
+19            n = n/10 ;
+20        }
+21        long rx = reverse(x) ;
+22        long sum = 0 ;
+23        long temp = rx ;
+24        while(temp >0) {
+25            long rem = temp%10 ;
+26            sum += rem ;
+27            temp = temp/10 ;
+28        }
+29
+30        ans = rx*sum ;
+31
+32        return ans ;
+33    }
+34}
