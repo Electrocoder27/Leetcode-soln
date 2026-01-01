@@ -1,0 +1,30 @@
+1class Solution {
+2    public int maxBalancedSubarray(int[] nums) {
+3        int len = Integer.MIN_VALUE ;
+4        int n = nums.length ;
+5        HashMap<String,Integer> map = new HashMap<>() ;
+6        int prexor = 0 ;
+7        int even = 0;
+8        int odd = 0 ;
+9        map.put("0#0",-1) ;
+10        for(int i =0;i<n;i++) {
+11            prexor  ^= nums[i] ;
+12            if(nums[i] %2 == 0) {
+13                even++ ;
+14            }
+15            else{
+16                odd++ ;
+17            }
+18            int bal = even-odd ;
+19            String key = prexor + "#" + bal ;
+20
+21            if(map.containsKey(key)) {
+22                len = Math.max(len,i-map.get(key)) ;
+23            }
+24            else{
+25                map.put(key,i) ;
+26            }
+27        }
+28        return len == Integer.MIN_VALUE ? 0: len ;
+29    }
+30}
