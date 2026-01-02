@@ -28,6 +28,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -138,6 +139,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1834-minimum-number-of-people-to-teach) |
