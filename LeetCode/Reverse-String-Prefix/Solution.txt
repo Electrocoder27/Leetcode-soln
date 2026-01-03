@@ -1,0 +1,9 @@
+1class Solution {
+2    public String reversePrefix(String s, int k) {
+3        StringBuilder sb = new StringBuilder(s.substring(0,k)) ;
+4        sb.reverse() ;
+5        String ans = sb.toString() + s.substring(k) ;
+6
+7        return ans ;
+8    }
+9}
