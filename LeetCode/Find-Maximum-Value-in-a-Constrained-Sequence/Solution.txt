@@ -1,0 +1,24 @@
+1class Solution {
+2    public int findMaxVal(int n, int[][] restrictions, int[] diff) {
+3        long maxval = 0;
+4        long seq[] =  new long[n] ;
+5        Arrays.fill(seq,Integer.MAX_VALUE) ;
+6        seq[0] = 0  ;
+7        for(int [] rest:restrictions) {
+8            int idx = rest[0] ;
+9            int val = rest[1] ;
+10            seq[idx] = Math.min(seq[idx],val) ;
+11        }
+12        for(int i =1;i<n;i++) {
+13            seq[i] = Math.min(seq[i],seq[i-1]+diff[i-1]) ;
+14        }
+15        for(int i = n-2;i>=0;i--) {
+16            seq[i] = Math.min(seq[i],seq[i+1]+diff[i]) ;
+17        }
+18        for(int i =0;i<n;i++) {
+19            maxval = Math.max(maxval,seq[i]) ;
+20        }
+21
+22        return (int)maxval ;
+23    }
+24}
