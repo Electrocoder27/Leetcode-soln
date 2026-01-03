@@ -76,6 +76,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1559-cherry-pickup-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2054-two-best-non-overlapping-events) |
