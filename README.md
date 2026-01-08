@@ -285,6 +285,7 @@
 | [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
@@ -316,6 +317,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -324,6 +326,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
