@@ -413,4 +413,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
