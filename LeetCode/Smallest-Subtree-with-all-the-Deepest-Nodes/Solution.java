@@ -14,39 +14,32 @@
 14 * }
 15 */
 16class Solution {
-17    int maxd = 0 ;
-18    HashMap<Integer,Integer> map ;
-19    private TreeNode LCA(TreeNode root){
-20        if(root == null || map.get(root.val) == maxd){
-21            return root ;
-22        }
-23
-24        TreeNode l = LCA(root.left) ;
-25        TreeNode r =  LCA(root.right) ;
-26
-27        if(l != null && r != null){
-28            return root ;
-29        }
-30
-31        if(l!= null){
-32            return l ;
-33        }
-34
-35        return r ;
-36    }
-37    private void depth(TreeNode root,int d){
-38        if(root == null) {
-39            return ;
+17    class Pair{
+18        TreeNode node;
+19        int depth ;
+20        Pair(TreeNode n,int d){
+21            node = n ;
+22            depth = d ;
+23        }
+24    }
+25    private Pair dfs(TreeNode root){
+26        if(root == null){
+27            return new Pair(null,0) ;
+28        }
+29        Pair left = dfs(root.left) ;
+30        Pair right = dfs(root.right) ;
+31
+32        if(left.depth>right.depth){
+33            return new Pair(left.node,left.depth+1) ;
+34        }
+35        else if(left.depth<right.depth){
+36            return new Pair(right.node,right.depth+1) ;
+37        }
+38        else{
+39            return new Pair(root,left.depth+1) ;
 40        }
-41        maxd = Math.max(maxd,d) ;
-42        map.put(root.val,d) ;
-43        depth(root.left,d+1) ;
-44        depth(root.right,d+1) ;
-45    }
-46    public TreeNode subtreeWithAllDeepest(TreeNode root) {
-47        map = new HashMap<>() ;
-48        depth(root,0) ;
-49        
-50        return LCA(root) ;
-51    }
-52}
+41    }
+42    public TreeNode subtreeWithAllDeepest(TreeNode root) {
+43       return dfs(root).node ;
+44    }
+45}
