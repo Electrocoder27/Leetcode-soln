@@ -1,0 +1,1 @@
+return df['Customers'].to_frame()
