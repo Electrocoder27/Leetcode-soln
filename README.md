@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -64,6 +65,7 @@
 | [0062-unique-paths](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -264,6 +266,7 @@
 | [0063-unique-paths-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0085-maximal-rectangle) |
 | [0794-swim-in-rising-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0840-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0967-minimum-falling-path-sum) |
@@ -388,6 +391,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0085-maximal-rectangle) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
@@ -419,4 +423,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0183-customers-who-never-order) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
