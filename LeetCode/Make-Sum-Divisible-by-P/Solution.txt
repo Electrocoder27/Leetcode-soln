@@ -1,0 +1,32 @@
+1class Solution {
+2    public int minSubarray(int[] nums, int p) {
+3        long totalSum = 0;
+4        for (int num : nums) {
+5            totalSum += num;
+6        }
+7
+8        int rem = (int)(totalSum % p);
+9        if (rem == 0) return 0; // Already divisible
+10
+11        Map<Integer, Integer> map = new HashMap<>();
+12        map.put(0, -1); // prefix sum mod -> index
+13
+14        long prefixSum = 0;
+15        int minLen = nums.length;
+16
+17        for (int i = 0; i < nums.length; i++) {
+18            prefixSum += nums[i];
+19            int currMod = (int)(prefixSum % p);
+20
+21            int needed = (currMod - rem + p) % p;
+22
+23            if (map.containsKey(needed)) {
+24                minLen = Math.min(minLen, i - map.get(needed));
+25            }
+26
+27            map.put(currMod, i);
+28        }
+29
+30        return minLen == nums.length ? -1 : minLen;
+31    }
+32}
