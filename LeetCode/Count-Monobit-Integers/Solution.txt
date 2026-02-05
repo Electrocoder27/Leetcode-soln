@@ -1,0 +1,14 @@
+1class Solution {
+2    public int countMonobit(int n) {
+3        int count = 1; // counting 0
+4
+5        long num = 1; // starts with 1 (binary "1")
+6
+7        while (num <= n) {
+8            count++;
+9            num = (num << 1) | 1; // generate next monobit number
+10        }
+11
+12        return count;
+13    }
+14}
