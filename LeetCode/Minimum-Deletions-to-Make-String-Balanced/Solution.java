@@ -1,19 +1,17 @@
-    Example: 1
-
-    1: b-0, a-3
-    2: b-0, a-2;
-    3: b-0, a-2;
-    4: b-1, a-1. --> 2 result
-    ...
-
-
-    Example: 2
-
-    1: b: 0, a-5
-    2: b:1, a-5
-    3: b:2, a-4
-    4: b:2, a-3
-    5: b:2, a-2
-    6: b:2, a-1
-    7: b:2, a-0 --> 2 result
-    ...
+1class Solution {
+2    public int minimumDeletions(String s) {
+3        int dp = 0;
+4        int countB = 0;
+5
+6        for(char c: s.toCharArray()) {
+7            if(c== 'a') {
+8                dp = Math.min(dp+1,countB) ;
+9            }
+10            else{
+11                countB++ ;
+12            }
+13        }
+14
+15        return dp ;
+16    }
+17}
