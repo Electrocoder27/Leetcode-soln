@@ -177,6 +177,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1033-broken-calculator](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1033-broken-calculator) |
+| [1382-balance-a-binary-search-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1382-balance-a-binary-search-tree) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2663-distribute-money-to-maximum-children) |
@@ -302,6 +303,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1382-balance-a-binary-search-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
@@ -337,6 +339,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -347,6 +350,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -430,6 +434,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0493-reverse-pairs) |
+| [1382-balance-a-binary-search-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -456,4 +461,8 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
