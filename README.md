@@ -210,6 +210,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1033-broken-calculator](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1033-broken-calculator) |
 | [1390-four-divisors](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1390-four-divisors) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -267,6 +268,7 @@
 | [0401-binary-watch](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0401-binary-watch) |
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -371,6 +373,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2402-meeting-rooms-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2402-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3336-water-bottles-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
