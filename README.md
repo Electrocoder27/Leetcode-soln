@@ -141,6 +141,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
