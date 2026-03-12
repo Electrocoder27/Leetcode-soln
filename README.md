@@ -267,6 +267,7 @@
 | [0231-power-of-two](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0401-binary-watch) |
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
+| [0868-binary-gap](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1930-unique-length-3-palindromic-subsequences) |
