@@ -1,0 +1,33 @@
+1class Solution {
+2    public int minCost(int[] nums1, int[] nums2) {
+3        int n = nums1.length ;
+4        HashMap<Integer,Integer> freq = new HashMap<>() ;
+5
+6        for(int x:nums1){
+7            freq.put(x,freq.getOrDefault(x,0)+1) ;
+8        }
+9        for(int x:nums2){
+10            freq.put(x,freq.getOrDefault(x,0)+1) ;
+11        }
+12
+13        for(int v:freq.values()){
+14            if(v%2 !=0){
+15                return -1 ;
+16            }
+17        }
+18        HashMap<Integer,Integer> diff = new HashMap<>() ;
+19
+20        for(int x: nums1){
+21            diff.put(x,diff.getOrDefault(x,0)+1) ;
+22        }
+23        for(int x: nums2){
+24            diff.put(x,diff.getOrDefault(x,0)-1) ;
+25        }
+26
+27        int swaps = 0 ;
+28        for(int v:diff.values()){
+29            swaps += Math.abs(v) ;
+30        }
+31        return swaps/4 ;     
+32    }
+33}
