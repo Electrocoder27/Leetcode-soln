@@ -216,6 +216,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1033-broken-calculator](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1033-broken-calculator) |
 | [1390-four-divisors](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -399,6 +400,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1622-fancy-sequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1622-fancy-sequence) |
 ## Union Find
 |  |
 | ------- |
@@ -494,4 +496,8 @@
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0720-longest-word-in-dictionary) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
