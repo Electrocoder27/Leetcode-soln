@@ -40,6 +40,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1559-cherry-pickup-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1559-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -93,6 +94,7 @@
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1559-cherry-pickup-ii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -309,6 +311,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-cherry-pickup-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1559-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
