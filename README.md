@@ -64,6 +64,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3546-equal-sum-grid-partition-i) |
 | [3583-count-special-triplets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3583-count-special-triplets) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3637-trionic-array-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3637-trionic-array-i) |
@@ -261,6 +262,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3546-equal-sum-grid-partition-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting
@@ -316,6 +318,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3546-equal-sum-grid-partition-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -425,6 +428,7 @@
 | [1925-count-square-sum-triples](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3546-equal-sum-grid-partition-i) |
 ## Linked List
 |  |
 | ------- |
