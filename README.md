@@ -220,6 +220,7 @@
 | [0231-power-of-two](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0371-sum-of-two-integers) |
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
 | [0790-global-and-local-inversions](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0790-global-and-local-inversions) |
 | [0840-magic-squares-in-grid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0840-magic-squares-in-grid) |
@@ -288,6 +289,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0672-bulb-switcher-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0672-bulb-switcher-ii) |
