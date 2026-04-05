@@ -1,0 +1,24 @@
+1class Solution {
+2    public int mirrorFrequency(String s) {
+3        int freqchar[] = new int[26] ;
+4        int freqint[] = new int[10] ; 
+5        int n = s.length() ;
+6        for(int i =0;i<n;i++){
+7            char ch = s.charAt(i) ;
+8            if(Character.isLetter(ch)){
+9                freqchar[ch-'a']++ ;
+10            }
+11            else{
+12                 freqint[ch-'0']++ ;   
+13            }            
+14        }
+15        int sum = 0;
+16        for(int i=0;i<13;i++){
+17            sum += Math.abs(freqchar[i]-freqchar[25-i]) ;
+18        }
+19        for(int i =0;i<5;i++){
+20            sum += Math.abs(freqint[i]-freqint[9-i]) ;
+21        }
+22        return sum ;
+23    }
+24}
