@@ -1,22 +1,22 @@
-class Solution {
-    public int minimumDistance(int[] nums) {
-        int n = nums.length ;
-        int mindist = Integer.MAX_VALUE ;
-        HashMap<Integer,ArrayList<Integer>> map = new HashMap<>() ;
-        for(int i =0;i<n;i++){
-            map.computeIfAbsent(nums[i],x -> new ArrayList<>()).add(i) ;
-        }
-
-        for(ArrayList<Integer> list: map.values()){
-            if(list.size() >=3){
-                for(int i =0;i+2 < list.size();i++){
-                    int f= list.get(i) ;
-                    int t = list.get(i+2) ;
-                    int dist = 2*(t-f) ;
-                    mindist = Math.min(mindist,dist) ;
-                }
-            }
-        }
-            return mindist == Integer.MAX_VALUE ? -1 :  mindist ;
-    }
-}
+1class Solution {
+2    public int minimumDistance(int[] nums) {
+3        int n = nums.length ;
+4        int mindist = Integer.MAX_VALUE ;
+5        HashMap<Integer,ArrayList<Integer>> map = new HashMap<>() ;
+6        for(int i =0;i<n;i++){
+7            map.computeIfAbsent(nums[i],x -> new ArrayList<>()).add(i) ;
+8        }
+9
+10        for(ArrayList<Integer> list: map.values()){
+11            if(list.size() >=3){
+12                for(int i =0;i+2 < list.size();i++){
+13                    int f= list.get(i) ;
+14                    int t = list.get(i+2) ;
+15                    int dist = 2*(t-f) ;
+16                    mindist = Math.min(mindist,dist) ;
+17                }
+18            }
+19        }
+20            return mindist == Integer.MAX_VALUE ? -1 :  mindist ;
+21    }
+22}
