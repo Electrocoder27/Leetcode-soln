@@ -1,0 +1,12 @@
+1class Solution {
+2    public int countDigitOccurrences(int[] nums, int digit) {
+3         long count = 0;
+4        for(int num:nums){
+5            count += String.valueOf(num)
+6                   .chars()
+7                   .filter(ch -> ch == Character.forDigit(digit, 10))
+8                   .count();
+9        }
+10        return (int)count ;
+11    }
+12}
