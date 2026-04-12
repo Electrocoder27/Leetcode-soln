@@ -1,0 +1,15 @@
+1class Solution {
+2    public String trafficSignal(int timer) {
+3        if(timer == 0){
+4            return "Green" ;
+5        }
+6        else if(timer>30 && timer<=90){
+7            return "Red" ;
+8        }
+9        else if(timer == 30){
+10            return "Orange" ;
+11        }
+12
+13        return "Invalid" ;
+14    }
+15}
