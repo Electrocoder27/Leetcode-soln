@@ -46,6 +46,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2402-meeting-rooms-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2402-meeting-rooms-iii) |
@@ -205,6 +206,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2663-distribute-money-to-maximum-children) |
 | [2689-rearranging-fruits](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2689-rearranging-fruits) |
