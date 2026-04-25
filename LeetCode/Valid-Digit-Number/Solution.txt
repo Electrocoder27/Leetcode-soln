@@ -1,0 +1,17 @@
+1class Solution {
+2    public boolean validDigit(int n, int x){
+3        int count = 0;
+4        while(n>= 10){
+5            int dig = n%10 ;
+6            if(dig == x){
+7                count++ ;
+8            }
+9            n = n/10 ;
+10        }
+11
+12        if(n != x && count>0){
+13            return true ;
+14        }
+15        return false ;
+16    }
+17}
