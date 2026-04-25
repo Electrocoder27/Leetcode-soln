@@ -1,0 +1,29 @@
+1class Solution {
+2    public int compareBitonicSums(int[] nums) {
+3        int idx = -1 ;
+4        int maxele = Integer.MIN_VALUE ;
+5        for(int i =0;i<nums.length;i++){
+6            if(maxele<=nums[i]){
+7                maxele = Math.max(maxele,nums[i]) ;
+8                idx = i ;
+9            }
+10        }
+11        long asum = 0;
+12        long dsum = 0 ;
+13        for(int i =0;i<nums.length;i++){
+14            if(i<=idx){
+15                asum += nums[i] ;
+16            }
+17            if(i>=idx){
+18                dsum += nums[i] ;
+19            }
+20        }
+21        if(asum > dsum){
+22            return 0 ;
+23        }
+24        else if(asum<dsum){
+25            return 1 ;
+26        }
+27        return -1 ;
+28    }
+29}
