@@ -1,0 +1,28 @@
+1class Solution {
+2    public int[] scoreValidator(String[] events) {
+3        int res[] =  new int[2] ;
+4        int score = 0;
+5        int counter = 0;
+6        for(String s:events) {
+7
+8            if(counter ==10){
+9                break ;
+10            }
+11            if(s.equals("W")){
+12                counter++;
+13            }
+14            else if(s.equals("NB")){
+15                score++ ;
+16            }
+17            else if(s.equals("WD")){
+18                score++ ;
+19            }
+20            else{
+21                score += Integer.parseInt(s) ;
+22            }
+23        }
+24        res[0] = score ;
+25        res[1] = counter >10 ? 10:counter ;
+26        return res ;
+27    }
+28}
