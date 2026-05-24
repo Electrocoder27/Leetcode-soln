@@ -1,0 +1,19 @@
+1class Solution {
+2    public int minimumSwaps(int[] nums) {
+3        int n = nums.length ;
+4        int zcount = 0 ;
+5        for(int num : nums){
+6            if(num == 0){
+7                zcount++ ;
+8            }
+9        }
+10        int c = 0;
+11        for(int i =n-1;i>=n-zcount;i--){
+12            if(nums[i] ==0){
+13                c++ ;
+14            }
+15        }
+16
+17        return (zcount-c) ;
+18    }
+19}
