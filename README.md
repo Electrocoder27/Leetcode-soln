@@ -178,6 +178,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
@@ -204,6 +205,7 @@
 | [2784-check-if-array-is-good](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
