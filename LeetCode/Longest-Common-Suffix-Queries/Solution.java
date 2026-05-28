@@ -1,0 +1,1 @@
+vector<Node*> chars(26) ; //  giving TLE
