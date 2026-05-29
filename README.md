@@ -70,6 +70,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -264,6 +265,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
