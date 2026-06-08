@@ -51,6 +51,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2402-meeting-rooms-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2402-meeting-rooms-iii) |
@@ -350,6 +351,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0392-is-subsequence) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2540-minimum-common-value) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
@@ -458,6 +460,7 @@
 | [0657-robot-return-to-origin](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0657-robot-return-to-origin) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
