@@ -89,6 +89,7 @@
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
@@ -146,6 +147,7 @@
 | [2402-meeting-rooms-iii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/2402-meeting-rooms-iii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sort
 |  |
 | ------- |
@@ -482,6 +485,7 @@
 | [0493-reverse-pairs](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1622-fancy-sequence](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1622-fancy-sequence) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Union Find
 |  |
 | ------- |
