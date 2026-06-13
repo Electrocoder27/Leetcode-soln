@@ -91,6 +91,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
@@ -192,6 +193,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -474,6 +476,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3838-weighted-word-mapping) |
 ## Binary Indexed Tree
 |  |
 | ------- |
