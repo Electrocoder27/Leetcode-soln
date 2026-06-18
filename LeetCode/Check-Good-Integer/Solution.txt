@@ -1,0 +1,17 @@
+1class Solution {
+2    public boolean checkGoodInteger(int n) {
+3        int sum =0;
+4        int sqsum =0;
+5        while(n>0) {
+6            int dig = n%10 ;
+7            sum += dig ;
+8            sqsum += dig*dig ;
+9            n = n/10 ;
+10        }
+11        if(sqsum - sum >= 50){
+12            return true ;
+13        }
+14
+15        return false ;
+16    }
+17}
