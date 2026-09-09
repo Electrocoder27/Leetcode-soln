@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0066-plus-one) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0064-minimum-path-sum) |
@@ -630,6 +632,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/Electrocoder27/Leetcode-soln/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/Electrocoder27/Leetcode-soln/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Electrocoder27/Leetcode-soln/tree/master/3653-xor-after-range-multiplication-queries-i) |
